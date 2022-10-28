@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    },
+    "ConnectionStrings": {
+        "InTakeDB": "Data Source=LAPTOP-Q32E1LFC;Initial Catalog=Intake;Integrated Security=True;"
+
+    }
+}
